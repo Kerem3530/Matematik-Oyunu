@@ -1,0 +1,52 @@
+*{
+    position: relative;
+    text-align: center;
+}
+
+.container{
+    width: 960px;
+    height: 600px;
+    border: solid 5px;
+    margin: auto;
+    border-radius: 50px;
+    background: -moz-linear-gradient(90deg, rgb(0, 0, 170) 0%, rgb(255, 0, 0) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(0, 0, 255) 0%, rgb(255, 0, 0) 100%);
+    background: linear-gradient(90deg, rgb(0, 0, 170) 0%, rgb(170, 0, 0) 100%);
+}
+
+body{
+    background: -moz-linear-gradient(90deg, rgb(0, 0, 255) 0%, rgb(255, 0, 0) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(0, 0, 255) 0%, rgb(255, 0, 0) 100%);
+    background: linear-gradient(90deg, rgb(0, 0, 255) 0%, rgb(255, 0, 0) 100%);
+}
+
+.yanit1, .yanit2, .yanit3{
+    top: 200px;
+    width: 400px;
+    height: 30px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    border: solid 2px;
+    padding-right: 150px;
+    padding-left: 150px;
+    box-shadow: 0px 0px 10px;
+    font-weight: 900;
+    cursor: pointer;
+    background: rgb(15,106,0);
+    background: -moz-linear-gradient(90deg, rgba(15,106,0,1) 0%, rgba(0,102,102,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(15,106,0,1) 0%, rgba(0,102,102,1) 100%);
+    background: linear-gradient(90deg, rgba(15,106,0,1) 0%, rgba(0,102,102,1) 100%);
+}
+
+.yanit1:hover, .yanit2:hover, .yanit3:hover{
+    box-shadow: 0px 0px 10px inset;
+}
+
+h1{
+    border: solid 3px;
+    border-radius: 50px;
+    background: -moz-linear-gradient(90deg, rgba(88,135,255,1) 0%, rgba(242,68,68,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(88,135,255,1) 0%, rgba(242,68,68,1) 100%);
+    background: linear-gradient(90deg, rgba(88,135,255,1) 0%, rgba(242,68,68,1) 100%);
+}

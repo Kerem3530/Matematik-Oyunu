@@ -1,0 +1,5 @@
+Eğer Bu Oyunu Çalıştırmak İstiyorsan Python İndirmelisin
+
+" python.org " sitesine gidip indirebilirsin
+
+Youtube platformunda nasıl yüklendiğini öğrenebilirsiniz
